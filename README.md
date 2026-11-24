@@ -1,4 +1,3 @@
-<img width="498" height="494" alt="pcb_layout" src="https://github.com/user-attachments/assets/1a53de0b-3ae6-4886-a077-b3138f07f6c4" />
 # Voltage-Controlled Audio Preamplifier (SMD PCB)
 
 Academic hardware project developed at the **Faculty of Electronics, Telecommunications and Information Technology (ETTI)**, POLITEHNICA Bucharest.
@@ -25,5 +24,8 @@ A compact audio preamplifier whose amplification level is controlled by a DC vol
   * `Gerber si Excellon (DRILL)/` – Manufacturing Gerber files (`TOP.art`, `BOT.art`, solder mask/paste layers) and drill files (`DRILL.drl`)
 
  ## Circuit & PCB Preview
-![Schematic](schematic.png)
-![PCB Layout](pcb_layout.png)
+
+<img width="548" height="308" alt="Screenshot 2026-11-24 230001" src="https://github.com/user-attachments/assets/47f8c44c-af49-4013-a4c6-4d57c5e0fb2c" />
+
+
+<img width="498" height="494" alt="pcb_layout" src="https://github.com/user-attachments/assets/38be54d5-65ed-4a00-b33e-96df71f44ce8" />
