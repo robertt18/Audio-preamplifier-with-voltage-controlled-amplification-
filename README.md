@@ -21,4 +21,8 @@ A compact audio preamplifier whose amplification level is controlled by a DC vol
   * `document_final.pdf` – Full technical project report, calculations, and assembly guide
   * `SCHEMATIC/` – OrCAD Capture schematics (`schematic pcb/`), PSpice simulation files (`schematic spice/`), component libraries, and Bill of Materials (`.BOM` / `.ods`)
   * `Layout/` – OrCAD PCB Designer board file (`pcb_proiect1_Mindroc_Robert_434B.brd`)
-  * `Gerber si Excellon (DRILL)/` – Manufacturing Gerber files (`TOP.art`, `BOT.art`, solder mask/paste layers) and drill files (`DRILL.drl`)[cite: 23]
+  * `Gerber si Excellon (DRILL)/` – Manufacturing Gerber files (`TOP.art`, `BOT.art`, solder mask/paste layers) and drill files (`DRILL.drl`)
+
+ ## Circuit & PCB Preview
+![Schematic](schematic.png)
+![PCB Layout](pcb_layout.png)
