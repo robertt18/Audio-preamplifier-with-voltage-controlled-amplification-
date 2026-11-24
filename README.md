@@ -1,3 +1,4 @@
+<img width="498" height="494" alt="pcb_layout" src="https://github.com/user-attachments/assets/1a53de0b-3ae6-4886-a077-b3138f07f6c4" />
 # Voltage-Controlled Audio Preamplifier (SMD PCB)
 
 Academic hardware project developed at the **Faculty of Electronics, Telecommunications and Information Technology (ETTI)**, POLITEHNICA Bucharest.
